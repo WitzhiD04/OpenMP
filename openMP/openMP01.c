@@ -3,7 +3,7 @@
         Autor: Carlos Guiza
         Fecha: 13 de Mayo 2025
         Materia: Sistemas Operativos
-        Tema: semaforo
+        Tema: openMP
         Fichero: openMP01.c
         Objetivo: Crea hilos de ejecucion para cada core e imprime cadena de caracteres por cada llamada
 ****************************************************************/

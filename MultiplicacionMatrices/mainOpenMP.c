@@ -71,7 +71,7 @@ int main(int argc, char *argv[]){
 #	 especialmente a medida que aumenta el tamaño de las matrices. Distribuir las matrices a partir de las iteraciones con #pragma omp for permitio el trabajo de multiples hilos
 #	trabjaran en el calculo simultaneamente de distintas posiciones de la matriz resultado. Tambien al correr el codigo se pudo ver que efectivamente la matriz resultado es correcta
 #	y que los hilos calcuaron de manera efectiva las posiciones que les correspondian. Esta implementación demuestra que, para operaciones de alta complejidad como 
-#	la multiplicación de matrices, el uso de paralelismo con OpenMP es una herramienta eficiente que mejora el rendimiento aprovechando la potencia d ela maquina.
+#	la multiplicación de matrices, el uso de paralelismo con OpenMP es una herramienta eficiente que mejora el rendimiento aprovechando la potencia de la maquina.
 #****************************************************************/
 
 	
